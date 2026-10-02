@@ -4,10 +4,6 @@ node_modules/
 # test screenshots and scripts' output from design checks (very large)
 scrollcraft/builds/*/lab/
 
-# raw download of the brand's Telegram channel (1,200+ files, not needed to build);
-# the curated, web-ready photos live in assets/images/
-assets/source/
-
 # tool state
 .impeccable/
 
